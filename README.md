@@ -1,6 +1,6 @@
 # Excel-Portfolio
 
-Welcome to my repository dedicated to the exploration and showcasing of various Microsoft Excel projects! Here, you'll find a collection of smaller tasks, tools, templates, and experiments I've developed while diving into the capabilities of Excel.
+Welcome to my repository dedicated to the exploration and showcasing of various **Microsoft Excel** projects! Here, you'll find a collection of smaller tasks, tools, templates, and experiments I've developed while diving into the capabilities of Excel.
 
 #### Project Status: [Active]
 
